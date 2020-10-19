@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Female Radio 97.9 FM" tvg-logo="https://kitabisa-userupload-01.s3-ap-southeast-1.amazonaws.com/_production/partner/305/34_305_1506499679_58921561_f.jpg" radio="true",Female Radio 97.9 FM
+http://masima.rastream.com/masima-femaleradio
+#EXTINF:-1 tvg-id="Gen Radio 98.7 FM" tvg-logo="https://miro.medium.com/max/1280/0*y5KCmrTx1t7oi6Ur.jpg" radio="true",Gen Radio 98.7 FM
+https://wow4.mahakaradiointegra.com:1936/web_genfm/genfm/chunklist_w175219012.m3u8
+#EXTINF:-1 tvg-id="Mustang 98.7 FM" tvg-logo="https://2.bp.blogspot.com/-ivEvJi-QG2U/Wmmnbw2XIKI/AAAAAAAAWMU/HYhqIFFZ9EorCZDFBKWGMf9TBts-6C8NgCK4BGAYYCw/w1200-h630-p-k-no-nu/Mustang-Fm-Live-Streaming-88.0-MHz-Jakarta.JPG" radio="true",Mustang 98.7 FM
+https://wow4.mahakaradiointegra.com:1936/web_mustangfm/mustangfm/chunklist_w2128760601.m3u8
+#EXTINF:-1 tvg-id="HardRock 87.6 FM" tvg-logo="https://lalalafest.com/wp-content/uploads/2018/03/HARDROCK-FM-JAKARTA.png" radio="true",HardRock 87.6 FM Jakarta
+http://cloudstreaming.mramedia.com:8001/live
+#EXTINF:-1 tvg-id="HardRock 87.7 FM Bandung" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vXmfTu7nXh.png" radio="true",HardRock 87.7 FM Bandung
+http://cloudstreaming.mramedia.com:8010/live
+#EXTINF:-1 tvg-id="HardRock 87.8 FM Bali" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ez3L8yD3b3.png" radio="true",HardRock 87.8 FM Bali
+http://cloudstreaming.mramedia.com:8012/live
+#EXTINF:-1 tvg-id="HardRock 89.7 FM Surabaya" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/9Scch6jwWu.png" radio="true",HardRock 89.7 FM Surabaya
+http://cloudstreaming.mramedia.com:8011/live
+#EXTINF:-1 tvg-id="iRadio 89.6 FM Jakarta" tvg-logo="https://xmlmalezserver.listen2myapp.com/account/users.assets/21/big_logo_21_1518616025.png" radio="true",iRadio 89.6 FM Jakarta
+http://stream.radiojar.com/4ywdgup3bnzuv
+#EXTINF:-1 tvg-id="Delta 99.1 FM Jakarta" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hswFPaygeD.png" radio="true",Delta 99.1 FM Jakarta
+http://live.masima.cloud:9002/stream
+#EXTINF:-1 tvg-id="Bahana 101.8 FM" tvg-logo="https://www.bahanafm.co.id/assets/bahana.png" radio="true",Bahana 101.8 FM
+http://live.masima.cloud:8100/stream
+#EXTINF:-1 tvg-id="TRAX 101.4 FM" tvg-logo="https://static-media.streema.com/media/cache/e2/16/e2167cb5eed62c9dda8eda4fcb29f3aa.jpg" radio="true",TRAX 101.4 FM
+https://n0b.radiojar.com/rrqf78p3bnzuv.mp3
